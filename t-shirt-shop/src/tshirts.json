@@ -1,0 +1,72 @@
+  [
+   {
+      "id": 1,
+      "img": "https://media.e-subsidesports.com/sites/us/media/images/product/large/NorthKoreaHSS0809.gif",
+      "title": "Football tshirt",
+      "manufacturer": "Adibas",
+      "price": "$10",
+      "rating": 3,
+      "availableColors": [
+        {
+          "name": "Red",
+          "color": "#FF0000"
+        },
+        {
+          "name": "Greenish",
+          "color": "#71CC71"
+        },
+        {
+          "name": "Kind of black",
+          "color": "#1C311C"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "img": "https://images.joma-sport.com/files/0001/jomabeta987543098359809538245098/web.system/assets/products/20181112132034.101269.552.jpg",
+      "title": "Running tshirt",
+      "manufacturer": "Kine",
+      "price": "$12",
+      "rating": 4,
+      "availableColors": [
+        {
+          "name": "Purple",
+          "color": "#782489"
+        },
+        {
+          "name": "Crimson",
+          "color": "#DB141B"
+        },
+        {
+          "name": "Lime",
+          "color": "#2A8D37"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "img": "https://n4.sdlcdn.com/imgs/a/m/p/Zovi-Indian-Green-Stand-Collar-SDL290126141-1-9f117.jpg",
+      "title": "Wedding tshirt",
+      "manufacturer": "Enorio Arbani",
+      "price": "$1999",
+      "rating": 5,
+      "availableColors": [
+        {
+          "name": "Royal Gold",
+          "color": "#2A8D37"
+        },
+        {
+          "name": "BlackAF",
+          "color": "#000000"
+        },
+        {
+          "name": "Ivory",
+          "color": "#EEEED3"
+        },
+        {
+          "name": "Candy",
+          "color": "#FA6BE0"
+        }
+      ]
+    }
+   ]
